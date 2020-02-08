@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>8395744</id>
   <title>CNA AsiaManual</title>
-  <updated>2020-02-03T23:48:26+08:00</updated>
+  <updated>2020-02-08T20:48:26+08:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
-    <id>8395744-42410368</id>
+    <id>8395744-43410368</id>
     <title>China turns to AI, data in fight against virus</title>
-    <updated>2020-02-08T10:55:35.660220+00:00</updated>
+    <updated>2020-02-08T10:56:35.660220+00:00</updated>
     <content>&lt;div&gt; &lt;p&gt;BEIJING: A man who had travelled to Wuhan - the central city at the heart of China's coronavirus crisis - was surprised when police showed up at his door after he returned home, asking to check his temperature.&lt;/p&gt;
       &lt;p&gt;The man, who had quarantined himself at home in Nanjing, eastern Jiangsu province, said he had not told anyone about his recent trip to the city.&lt;/p&gt;
       &lt;h3&gt;&lt;a href="https://www.channelnewsasia.com/news/asia/wuhan-virus-us-japan-die-coronavirus-china-12410562" target=_blank &gt;READ: Novel coronavirus claims first foreign victims as US citizen, Japanese man die in Wuhan&lt;/a&gt;&lt;/h3&gt;
@@ -64,8 +64,8 @@
       &lt;h6&gt;&lt;a href="https://cna.asia/wuhan-virus" target=_blank &gt;BOOKMARK THIS: Our comprehensive coverage on the novel coronavirus and its developments&lt;/a&gt;&lt;/h6&gt;
       &lt;/div&gt;
     </content>
-    <link href="https://www.channelnewsasia.com/news/a-12410368" rel="alternate"/>
+    <link href="https://www.channelnewsasia.com/news/ab-12410368" rel="alternate"/>
     <summary>A man who had travelled to Wuhan - the central city at the heart of China's coronavirus crisis ?- was surprised when police showed up at his door after he returned home, asking to check his temperature.</summary>
-    <published>2020-02-08T16:22:55+08:00</published>
+    <published>2020-02-08T16:23:55+08:00</published>
   </entry>
 </feed>
