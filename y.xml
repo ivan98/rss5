@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>8395744</id>
-  <title>CNA Asia</title>
+  <title>CNA AsiaManual</title>
   <updated>2020-02-03T23:48:26+08:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
